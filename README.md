@@ -3,6 +3,9 @@
 ## Description
 This app was created for analyzing the financial records of a company
 
+## Link
+
+https://akonde.github.io/Console-Finances/
 ## Installation
 
 N/A
