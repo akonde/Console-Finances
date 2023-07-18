@@ -132,5 +132,5 @@ console.log("Total Months: " + totalMonths);
 console.log("Total: $" + netTotal);
 console.log("Average Change: " + totalAverage);
 console.log("Greatest Increase in Profits/Losses: " + greatestIncrease.date + " ($" + greatestIncrease.amount + ")");
-console.log("Greatest Decrease in Profits/Losses: " + greatestDecrease.date + " ($" + greatestIncrease.amount +")");
+console.log("Greatest Decrease in Profits/Losses: " + greatestDecrease.date + " ($" + greatestDecrease.amount +")");
 
