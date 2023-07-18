@@ -22,8 +22,7 @@ The greatest decrease in losses (date and amount) over the entire period.
 
 
 ## Credits
-Thanks to the University of Birmingham Frontend boot camp for this privilege. I appreciate TUTOR (Philip), T.A (Tudor), and my cohort they are all amazing, google searching and other developers communities for resources. 
-N/A
+Thanks to the University of Birmingham Frontend boot camp for this privilege. I appreciate TUTOR (Philip), T.A (Tudor), and my cohort they are all amazing, google searching and other developers' communities for resources. 
 
 ## License
 MIT
